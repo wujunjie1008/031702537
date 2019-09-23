@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Sudoku.cpp
+  Sudoku.vcxproj -> C:\Users\44540\Sudoku\Debug\Sudoku.exe
+c:\users\44540\sudoku\sudoku\sudoku.cpp(84): warning C6385: 从“num_list”中读取的数据无效: 可读大小为“400”个字节，但可能读取了“i”个字节。
+c:\users\44540\sudoku\sudoku\sudoku.cpp(244): warning C6385: 从“num_list”中读取的数据无效: 可读大小为“400”个字节，但可能读取了“i”个字节。
+c:\users\44540\sudoku\sudoku\sudoku.cpp(336): warning C6385: 从“num_list”中读取的数据无效: 可读大小为“400”个字节，但可能读取了“i”个字节。
