@@ -77,7 +77,7 @@ int DFS(int n, int m)
 	}
 	else
 	{
-		for (int i = 1; i <= m; i++)		//试填1-9的数字 
+		for (int i = 1; i <= m; i++)		//试填1-m的数字 
 		{
 			num_list[n / m][n % m] = i;
 			if (check(n / m, n % m, m) == 1)

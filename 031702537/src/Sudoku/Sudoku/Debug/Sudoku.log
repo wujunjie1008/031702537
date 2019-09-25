@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  Sudoku.cpp
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+pch.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  Sudoku.vcxproj -> D:\031702537\031702537\src\Sudoku\Debug\Sudoku.exe
